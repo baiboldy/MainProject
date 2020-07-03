@@ -1,0 +1,13 @@
+D:\sharpProjects\Main\Common\bin\Debug\netstandard2.0\Common.deps.json
+D:\sharpProjects\Main\Common\bin\Debug\netstandard2.0\Common.dll
+D:\sharpProjects\Main\Common\bin\Debug\netstandard2.0\Common.pdb
+D:\sharpProjects\Main\Common\bin\Debug\netstandard2.0\Microsoft.IdentityModel.Tokens.dll
+D:\sharpProjects\Main\Common\bin\Debug\netstandard2.0\Microsoft.IdentityModel.Tokens.pdb
+D:\sharpProjects\Main\Common\bin\Debug\netstandard2.0\Microsoft.IdentityModel.Tokens.xml
+D:\sharpProjects\Main\Common\obj\Debug\netstandard2.0\Common.csprojAssemblyReference.cache
+D:\sharpProjects\Main\Common\obj\Debug\netstandard2.0\Common.csproj.CoreCompileInputs.cache
+D:\sharpProjects\Main\Common\obj\Debug\netstandard2.0\Common.AssemblyInfoInputs.cache
+D:\sharpProjects\Main\Common\obj\Debug\netstandard2.0\Common.AssemblyInfo.cs
+D:\sharpProjects\Main\Common\obj\Debug\netstandard2.0\Common.csproj.CopyComplete
+D:\sharpProjects\Main\Common\obj\Debug\netstandard2.0\Common.dll
+D:\sharpProjects\Main\Common\obj\Debug\netstandard2.0\Common.pdb

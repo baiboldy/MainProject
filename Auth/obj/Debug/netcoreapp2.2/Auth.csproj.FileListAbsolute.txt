@@ -1,0 +1,17 @@
+D:\sharpProjects\Main\Auth\bin\Debug\netcoreapp2.2\Auth.deps.json
+D:\sharpProjects\Main\Auth\bin\Debug\netcoreapp2.2\Auth.runtimeconfig.json
+D:\sharpProjects\Main\Auth\bin\Debug\netcoreapp2.2\Auth.runtimeconfig.dev.json
+D:\sharpProjects\Main\Auth\bin\Debug\netcoreapp2.2\Auth.dll
+D:\sharpProjects\Main\Auth\obj\Debug\netcoreapp2.2\Auth.csprojAssemblyReference.cache
+D:\sharpProjects\Main\Auth\obj\Debug\netcoreapp2.2\Auth.csproj.CoreCompileInputs.cache
+D:\sharpProjects\Main\Auth\obj\Debug\netcoreapp2.2\Auth.RazorAssemblyInfo.cache
+D:\sharpProjects\Main\Auth\obj\Debug\netcoreapp2.2\Auth.RazorAssemblyInfo.cs
+D:\sharpProjects\Main\Auth\obj\Debug\netcoreapp2.2\Auth.AssemblyInfoInputs.cache
+D:\sharpProjects\Main\Auth\obj\Debug\netcoreapp2.2\Auth.AssemblyInfo.cs
+D:\sharpProjects\Main\Auth\obj\Debug\netcoreapp2.2\Auth.RazorTargetAssemblyInfo.cache
+D:\sharpProjects\Main\Auth\bin\Debug\netcoreapp2.2\Auth.pdb
+D:\sharpProjects\Main\Auth\obj\Debug\netcoreapp2.2\Auth.dll
+D:\sharpProjects\Main\Auth\obj\Debug\netcoreapp2.2\Auth.pdb
+D:\sharpProjects\Main\Auth\bin\Debug\netcoreapp2.2\Common.dll
+D:\sharpProjects\Main\Auth\bin\Debug\netcoreapp2.2\Common.pdb
+D:\sharpProjects\Main\Auth\obj\Debug\netcoreapp2.2\Auth.csproj.CopyComplete
