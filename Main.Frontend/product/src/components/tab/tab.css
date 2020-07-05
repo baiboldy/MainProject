@@ -1,0 +1,25 @@
+.tab {
+    width: 250px;
+    height: 35px;
+    background-color: rgba(72, 72, 255, 0.5);
+    margin-bottom: 5px;
+}
+
+.tab_container {
+    display: flex;
+    justify-content: center;
+}
+
+.tab_button {
+    background-color: rgba(72, 72, 255, 0);
+    border: 0;
+    margin: 9px 5px 5px 5px;
+}
+
+.tab_button:focus {
+    outline: none;
+}
+
+.tab_title {
+    margin: 8px;
+}

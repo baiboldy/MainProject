@@ -33,7 +33,7 @@ namespace Main.Data.Services
 
         public async Task<IList<Category>> GetCategories()
         {
-            return await _dBContent.Category.ToListAsync();
+            return await _dBContent.Category.Include(t => t.subCategories).Where(t => t.parent == null).ToListAsync();
         }
 
         public Category GetCategory()

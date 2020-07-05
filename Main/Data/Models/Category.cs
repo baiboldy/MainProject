@@ -12,5 +12,9 @@ namespace Main.Data.Models
         public string title { get; set; }
         [JsonIgnore]
         public virtual IList<Product> products { get; set; }
+        public int? parentId { get; set; }
+        [JsonIgnore]
+        public virtual Category parent { get; set; }
+        public virtual ICollection<Category> subCategories { get; set; }
     }
 }
